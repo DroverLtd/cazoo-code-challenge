@@ -39,6 +39,12 @@ Code is your 1st class citizen.
 * Good design decisions.
 * Testable code.
 
+Ideally the stack on the challenge should be similar to the Cazoo tech stack. But if you are not fully comfortable with it you can use a similar stack.
+* Next.js or similar on the FE with Typescript
+* Node.js on the BE with typescript
+* Docker or serverless (nice to have)
+* Nice to have a NoSQL DB
+
 If you are comfortable with Backend and Frontend development, please consider the "Full-stack challenge". If you are purely experienced with Frontend development, please consider the "Frontend only challenge".
 
 Please create a repository on your private github account and once you finish the challenge we will share with you the github usernames you should invite for the review.
