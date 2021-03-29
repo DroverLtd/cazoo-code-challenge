@@ -1,3 +1,9 @@
+<img src="./static/cazoo-logo.svg" width="200">
+
+---
+
+## Software Engineer Challenge
+
 - [Software Engineer Challenge](#software-engineer-challenge)
 - [About Us](#about-us)
 - [Cars](#cars)
@@ -7,11 +13,6 @@
 - [Frontend only challenge](#frontend-only-challenge)
 - [Submit it!](#submit-it)
 
-<img src="./static/cazoo-logo.svg" width="200">
-
----
-
-## Software Engineer Challenge
 ## About Us
 
 Hello, we’re [Cazoo](http://cazoo.co.uk/) and we’re transforming the way people buy used cars. We understand how much people love their cars but that they often don’t love the experience of buying one.
