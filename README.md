@@ -4,7 +4,6 @@
 
 ## Software Engineer Challenge
 
-- [Software Engineer Challenge](#software-engineer-challenge)
 - [About Us](#about-us)
 - [Cars](#cars)
 - [What do we expect from you?](#what-do-we-expect-from-you)
