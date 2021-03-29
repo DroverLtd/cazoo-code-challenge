@@ -1,5 +1,17 @@
-# Cazoo | Software Engineer Challenge
+- [Software Engineer Challenge](#software-engineer-challenge)
+- [About Us](#about-us)
+- [Cars](#cars)
+- [What do we expect from you?](#what-do-we-expect-from-you)
+- [Full-stack challenge](#full-stack-challenge)
+  - [Bonus Points](#bonus-points)
+- [Frontend only challenge](#frontend-only-challenge)
+- [Submit it!](#submit-it)
 
+<img src="./static/cazoo-logo.svg" width="200">
+
+---
+
+## Software Engineer Challenge
 ## About Us
 
 Hello, we’re [Cazoo](http://cazoo.co.uk/) and we’re transforming the way people buy used cars. We understand how much people love their cars but that they often don’t love the experience of buying one.
@@ -8,7 +20,7 @@ We buy only the best used cars and we lovingly recondition every single one to t
 
 We provide better selection, value, quality and convenience to give you total peace of mind when buying a used car. We think you should be able to simply and seamlessly purchase a used car entirely online much like buying any other product today.
 
-We’re data-driven, big on collaboration and we drive fast (not literally) but we move at speed and have fun doing so. We’re obsessed with providing an exceptional experience for every customer - it’s at the core of everything we do. 
+We’re data-driven, big on collaboration and we drive fast (not literally) but we move at speed and have fun doing so. We’re obsessed with providing an exceptional experience for every customer - it’s at the core of everything we do.
 
 ## Cars
 As you know Cazoo is an online marketplace to buy or to subscribe cars, and as you expect we try to have as much cars as we can on our platform. For this challenge we want you to implement a simple frontend to create, update and list cars.
@@ -47,8 +59,6 @@ Ideally the stack on the challenge should be similar to the Cazoo tech stack. Bu
 
 If you are comfortable with Backend and Frontend development, please consider the "Full-stack challenge". If you are purely experienced with Frontend development, please consider the "Frontend only challenge".
 
-Please create a repository on your private github account and once you finish the challenge we will share with you the github usernames you should invite for the review.
-
 ## Full-stack challenge
 
 The backend must have the following 4 endpoints implemented:
@@ -77,5 +87,5 @@ The frontend must have the following implemented:
 2. Should be possible to view more details about the car.
 3. The page should support pagination, showing 10 cars at a time.
 
-
-------
+## Submit it!
+Once you feel it's ready, compress it and send it over e-mail by replying back the e-mail you got from us with the challenge instructions.
